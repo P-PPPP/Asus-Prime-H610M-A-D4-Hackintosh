@@ -3,13 +3,13 @@
 
 Opencore Efi for Asus Prime H610M A D4 Hackintosh
 My Config:
-CPU     i312100
-MEM     3200DDR4*2
-SSD     Nvme 512
-GPU     RX5600XT
-WIFI    Ax201a
+CPU     i312100  
+MEM     3200DDR4*2  
+SSD     Nvme 512  
+GPU     RX5600XT  
+WIFI    Ax201a  
 # Tested Os
-- Ventura 13.0
+- Ventura 13.0  
 - Monterey 12.5
 # What Works
 - USB
