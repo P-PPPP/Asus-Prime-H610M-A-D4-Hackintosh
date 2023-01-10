@@ -16,8 +16,10 @@
 - WIFI(need extra kext)
 - Display
 - Sound
+- Sleep
 # Not Tested
 - LAN
-- Blueteeth
+- Bluetooth
+- Microphone
 # Dont Work
 - UHD730
