@@ -23,3 +23,4 @@
 - Microphone
 # Dont Work
 - UHD730
+- Location Services
